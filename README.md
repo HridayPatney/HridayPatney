@@ -1,6 +1,5 @@
-Hi , Im Hriday Patney 
-I'm a first year student at NSIT 
-im studying computer science engineering with artifical intelligence 
+Hi , Im Hriday Patney a first year student at NSIT and 
+i'm studying computer science engineering with artifical intelligence.
 im a beginner and am currently trying to learn c++
 
 <!---
