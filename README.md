@@ -1,6 +1,6 @@
 Hi , Im Hriday Patney a first year student at NSIT and 
 i'm studying computer science engineering with artifical intelligence.
-im a beginner and am currently trying to learn c++
+im a beginner and am currently trying to learn c++ and python
 
 <!---
 HridayPatney/HridayPatney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
